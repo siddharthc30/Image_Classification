@@ -5,3 +5,4 @@ To complete this task I have used google colab, which gives me a feature to use 
 
 [Dataset](https://www.kaggle.com/c/dogs-vs-cats) 
     
+I have used the kaggle API to directly access this dataset with google colab 
